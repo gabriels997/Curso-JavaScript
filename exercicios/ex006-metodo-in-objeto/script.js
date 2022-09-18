@@ -38,5 +38,5 @@ console.log(carro.preco)
         }
     }
   }
-  console.log(cachorro.latir('moto'));
+  console.log(cachorro.latir('homem'));
   
