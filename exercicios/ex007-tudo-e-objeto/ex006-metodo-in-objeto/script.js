@@ -39,3 +39,16 @@ console.log(carro.preco)
     }
   }
   console.log(cachorro.latir('homem'));
+
+  //int main() {
+    for (var i = 0; i < 3; i++) {
+        if(i == 2)
+        i << "1 ";
+        else
+        count << "0" << i << " ";
+        console.log(i)
+    }
+    
+    
+
+  
